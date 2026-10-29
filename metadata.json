@@ -1,0 +1,6 @@
+{
+  "name": "MagangKu",
+  "description": "Sistem Manajemen Magang Pintar — Kelola seluruh kegiatan magang siswa, absensi, jurnal harian, tugas, evaluasi, hingga sertifikat.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

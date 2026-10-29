@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#E85D9E"/>
+  <rect x="32" y="32" width="448" height="448" rx="96" fill="url(#grad)" fill-opacity="0.3"/>
+  <!-- Graduation / Briefcase hybrid icon -->
+  <path d="M256 120L112 200L256 280L400 200L256 120Z" fill="#FFFFFF"/>
+  <path d="M160 230V320C160 355.34 202.98 384 256 384C309.02 384 352 355.34 352 320V230L256 282L160 230Z" fill="#FCE7F3"/>
+  <path d="M400 200V290M400 290L412 320L400 350L388 320L400 290Z" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="256" cy="310" r="16" fill="#E85D9E"/>
+  <defs>
+    <linearGradient id="grad" x1="64" y1="64" x2="448" y2="448" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#D9468D" stop-opacity="0.2"/>
+    </linearGradient>
+  </defs>
+</svg>

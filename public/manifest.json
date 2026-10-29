@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "MagangKu — Smart Internship Management",
+  "short_name": "MagangKu",
+  "description": "Your Internship, Organized. Sistem manajemen magang modern untuk siswa, mentor, dan guru pembimbing.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#FFF8FC",
+  "theme_color": "#E85D9E",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
